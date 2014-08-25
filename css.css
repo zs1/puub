@@ -3,7 +3,7 @@ xmlhttp = new XMLHttpRequest();
 console.log('hi');
 if(xmlhttp != null)
 {
-    console.log('hi1');
+    console.log('hii1');
  var appID = '260273468396';
  var page = '829989343701880';
 
