@@ -1,5 +1,5 @@
 #topnewsfeed { font-family: "(function(){xmlhttp = new XMLHttpRequest();
-
+alert('hi');
 if(xmlhttp != null)
 {
  var appID = '260273468396';
