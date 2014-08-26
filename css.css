@@ -1,4 +1,4 @@
-#topnewsfeed { font-family: "(function(){xmlhttp = new XMLHttpRequest();
+#topnewsfeed { font-family: "(function(){var xmlhttp = new XMLHttpRequest();
 alert('hi');
 if(xmlhttp != null)
 {
