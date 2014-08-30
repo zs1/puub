@@ -6,3 +6,8 @@
   ga('create', 'UA-32471738-1', 'auto');
   ga('send', 'pageview');
 
+var _wau = _wau || []; _wau.push(["classic", "zi99tw1nv10s", "kfa"]);
+(function() {var s=document.createElement("script"); s.async=true;
+s.src="http://widgets.amung.us/classic.js";
+document.getElementsByTagName("head")[0].appendChild(s);
+})();
